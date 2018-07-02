@@ -1,6 +1,6 @@
 # cli2-demo
 
-> A Vue.js project
+> test vue cli 2.0 build file hash in diffrent machine
 
 ## Build Setup
 
